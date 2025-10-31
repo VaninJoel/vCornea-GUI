@@ -1,0 +1,290 @@
+{
+    "global": {
+      "MovementBiasScreteAmount": {
+        "Vanin et al., 2025": 5.0,
+        "default": "Vanin et al., 2025"
+      },
+      "MovementBiasUptake": {
+        "Vanin et al., 2025": 1.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_ScreteAmount": {
+        "Vanin et al., 2025": 1.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_FieldUptakeBASAL": {
+        "Vanin et al., 2025": 0.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_FieldUptakeSTEM": {
+        "Vanin et al., 2025": 0.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_FieldUptakeSuper": {
+        "Vanin et al., 2025": 0.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_FieldUptakeWing": {
+        "Vanin et al., 2025": 0.0,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_GlobalDecay": {
+        "Vanin et al., 2025": 0.5,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKWALL_lambda_distance": {
+        "Vanin et al., 2025": 50,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKWALL_target_distance": {
+        "Vanin et al., 2025": 3,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKWALL_max_distance": {
+        "Vanin et al., 2025": 1000,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKSUPER_lambda_distance": {
+        "Vanin et al., 2025": 50,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKSUPER_target_distance": {
+        "Vanin et al., 2025": 3,
+        "default": "Vanin et al., 2025"
+      },
+      "LINKSUPER_max_distance": {
+        "Vanin et al., 2025": 1000,
+        "default": "Vanin et al., 2025"
+      },
+      "IsInjury": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "InjuryType": {
+        "Vanin et al., 2025": false,
+        "default": "Vanin et al., 2025"
+      },
+      "InjuryTime": {
+        "Vanin et al., 2025": 1,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_Threshold_Method": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_Threshold": {
+        "Vanin et al., 2025": 2.0,
+        "default": "Vanin et al., 2025"
+      },
+      "InjuryX_Center": {
+        "Vanin et al., 2025": 150,
+        "default": "Vanin et al., 2025"
+      },
+      "InjuryY_Center": {
+        "Vanin et al., 2025": 60,
+        "default": "Vanin et al., 2025"
+      },
+      "InjuryRadius": {
+        "Vanin et al., 2025": 25,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_X_Center": {
+        "Vanin et al., 2025": 100,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_Y_Center": {
+        "Vanin et al., 2025": 75,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_Concentration": {
+        "Vanin et al., 2025": 1500,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_Gaussian_pulse": {
+        "Vanin et al., 2025": false,
+        "default": "Vanin et al., 2025"
+      },
+      "GrowthControl": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "MitosisControl": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "DeathControl": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "DifferentiationControl": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "CC3D_PLOT": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "CellCount": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "PressureTracker": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "EGF_SeenByCell": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "SLS_SeenByCell": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "CenterBias": {
+        "Vanin et al., 2025": false,
+        "default": "Vanin et al., 2025"
+      },
+      "ThicknessPlot": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "SurfactantTracking": {
+        "Vanin et al., 2025": true,
+        "default": "Vanin et al., 2025"
+      },
+      "SnapShot": {
+        "Vanin et al., 2025": false,
+        "default": "Vanin et al., 2025"
+      },
+      "SnapShot_time": {
+        "Vanin et al., 2025": 10,
+        "default": "Vanin et al., 2025"
+      },
+      "SimTime": {
+        "Vanin et al., 2025": 210,
+        "default": "Vanin et al., 2025"
+      }
+    },
+    "cell_type": {
+      "STEM": {
+        "InitSTEM_LambdaSurface": {
+          "Vanin et al., 2025": 2.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSTEM_TargetSurface": {
+          "Vanin et al., 2025": 18.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSTEM_LambdaVolume": {
+          "Vanin et al., 2025": 2.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSTEM_TargetVolume": {
+          "Vanin et al., 2025": 25.0,
+          "default": "Vanin et al., 2025"
+        },
+        "DensitySTEM_HalfMaxValue": {
+          "Vanin et al., 2025": 125,
+          "default": "Vanin et al., 2025"
+        },
+        "EGF_STEM_HalfMaxValue": {
+          "Vanin et al., 2025": 3.5,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSTEM_LambdaChemo": {
+          "Vanin et al., 2025": 100.0,
+          "default": "Vanin et al., 2025"
+        },
+        "SLS_STEMDiffCoef": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        }
+      },
+      "BASAL": {
+        "InitBASAL_LambdaSurface": {
+          "Vanin et al., 2025": 2.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitBASAL_TargetSurface": {
+          "Vanin et al., 2025": 20.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitBASAL_LambdaVolume": {
+          "Vanin et al., 2025": 2.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitBASAL_TargetVolume": {
+          "Vanin et al., 2025": 25.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitBASAL_LambdaChemo": {
+          "Vanin et al., 2025": 1000.0,
+          "default": "Vanin et al., 2025"
+        },
+        "DensityBASAL_HalfMaxValue": {
+          "Vanin et al., 2025": 125,
+          "default": "Vanin et al., 2025"
+        },
+        "EGF_BASAL_HalfMaxValue": {
+          "Vanin et al., 2025": 7.0,
+          "default": "Vanin et al., 2025"
+        },
+        "SLS_BASALDiffCoef": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        }
+      },
+      "WING": {
+        "InitWING_LambdaSurface": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitWING_TargetSurface": {
+          "Vanin et al., 2025": 25,
+          "default": "Vanin et al., 2025"
+        },
+        "InitWING_LambdaVolume": {
+          "Vanin et al., 2025": 2.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitWING_TargetVolume": {
+          "Vanin et al., 2025": 25.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitWING_EGFLambdaChemo": {
+          "Vanin et al., 2025": 20.0,
+          "default": "Vanin et al., 2025"
+        },
+        "SLS_WINGDiffCoef": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        }
+      },
+      "SUPERFICIAL": {
+        "InitSUPER_LambdaSurface": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSUPER_TargetSurface": {
+          "Vanin et al., 2025": 25.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSUPER_LambdaVolume": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        },
+        "InitSUPER_TargetVolume": {
+          "Vanin et al., 2025": 25.0,
+          "default": "Vanin et al., 2025"
+        },
+        "EGF_SUPERDiffCoef": {
+          "Vanin et al., 2025": 20.0,
+          "default": "Vanin et al., 2025"
+        },
+        "SLS_SUPERDiffCoef": {
+          "Vanin et al., 2025": 5.0,
+          "default": "Vanin et al., 2025"
+        }
+      }
+    }
+  }
